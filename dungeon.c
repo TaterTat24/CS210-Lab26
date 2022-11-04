@@ -1,7 +1,7 @@
 /** dungeon.c
 * ===========================================================
-* Name: CS210
-* Section:
+* Name: Benjamin Tat
+* Section: T6
 * Project: Lab 26
 * Purpose: More fun with structs
 * ===========================================================

@@ -7,7 +7,8 @@
 			"command": "/usr/bin/gcc",
 			"args": [
 				"-g",
-				"lab26-1.c",
+				"lab26-2.c",
+				"dungeon.c",
 				"-lm",
 				"-o",
 				"${fileDirname}/${fileBasenameNoExtension}"
